@@ -1,13 +1,13 @@
-﻿Build started 7/11/2018 10:33:54 AM.
-     1>Project "C:\Developer\Git test stuff\test_git_project\test_git_project\test_git_project.vcxproj" on node 2 (Build target(s)).
+﻿Build started 7/12/2018 10:53:44 AM.
+     1>Project "C:\Developer\Git test stuff\test\test_git_project\test_git_project\test_git_project.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Developer\Git test stuff\test_git_project\Debug\test_git_project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Developer\Git test stuff\test_git_project\Debug\test_git_project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Developer\Git test stuff\test_git_project\Debug\test_git_project.lib" /MACHINE:X86 Debug\main.obj
-         test_git_project.vcxproj -> C:\Developer\Git test stuff\test_git_project\Debug\test_git_project.exe
-     1>Done Building Project "C:\Developer\Git test stuff\test_git_project\test_git_project\test_git_project.vcxproj" (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Developer\Git test stuff\test\test_git_project\Debug\test_git_project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Developer\Git test stuff\test\test_git_project\Debug\test_git_project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Developer\Git test stuff\test\test_git_project\Debug\test_git_project.lib" /MACHINE:X86 Debug\main.obj
+         test_git_project.vcxproj -> C:\Developer\Git test stuff\test\test_git_project\Debug\test_git_project.exe
+     1>Done Building Project "C:\Developer\Git test stuff\test\test_git_project\test_git_project\test_git_project.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:07.93
+Time Elapsed 00:00:07.28
